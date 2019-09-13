@@ -1,4 +1,4 @@
-package com.miller.androidservice
+package com.miller.androidcomponentshowcase
 
 import org.junit.Test
 
